@@ -1,0 +1,17 @@
+commonroad-interactive-scenarios/
+*.log
+*.tmp
+__pycache__/
+*.o
+*.obj
+coin-license.txt
+ipopt
+ipopt-linux64.zip
+data/models/
+data/logs/
+data/expert_data/
+*.pkl
+*.mp4
+*.csv
+infrastructure.egg-info/
+wget-log
